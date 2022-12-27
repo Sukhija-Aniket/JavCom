@@ -1,0 +1,190 @@
+Hello User: eval
+Zip file valid.
+Folder structure is validated.
+Compilation successful. Proceeding to run test cases.
+Going to parse the output of testcase: Testcase-1
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Parsing the output is successful. Proceeding to compare the outputs.
+Compilation successful for the generated output file. Proceeding to compare output.
+%%TCE%%
+Testcase-1
+Pass
+Congrats!
+
+Going to parse the output of testcase: Testcase-10
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Parsing the output is successful. Proceeding to compare the outputs.
+Compilation successful for the generated output file. Proceeding to compare output.
+%%TCE%%
+Testcase-10
+Pass
+Congrats!
+
+Going to parse the output of testcase: Testcase-11
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Parsing the output is successful. Proceeding to compare the outputs.
+Compilation successful for the generated output file. Proceeding to compare output.
+%%TCE%%
+Testcase-11
+Pass
+Congrats!
+
+Going to parse the output of testcase: Testcase-12
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Parsing the output is successful. Proceeding to compare the outputs.
+Compilation successful for the generated output file. Proceeding to compare output.
+%%TCE%%
+Testcase-12
+Pass
+Congrats!
+
+Going to parse the output of testcase: Testcase-13
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+%%TCE%%
+Testcase-13
+Failed!
+Parsing output failed with TempNoJavaGrammar!
+Exception in thread "main" ParseException: Encountered " <IDENTIFIER> "store "" at line 117, column 25.%&%Was expecting one of:%&% "{" ...%&% "if" ...%&% "while" ...%&% "System.out.println" ...%&% %&% at TempNoJavaParser.generateParseException(TempNoJavaParser.java:1683)%&% at TempNoJavaParser.jj_consume_token(TempNoJavaParser.java:1562)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:388)%&% at TempNoJavaParser.Block(TempNoJavaParser.java:420)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:361)%&% at TempNoJavaParser.IfStatement(TempNoJavaParser.java:503)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:375)%&% at TempNoJavaParser.Block(TempNoJavaParser.java:420)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:361)%&% at TempNoJavaParser.IfStatement(TempNoJavaParser.java:503)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:375)%&% at TempNoJavaParser.Block(TempNoJavaParser.java:420)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:361)%&% at TempNoJavaParser.IfStatement(TempNoJavaParser.java:500)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:375)%&% at TempNoJavaParser.Block(TempNoJavaParser.java:420)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:361)%&% at TempNoJavaParser.WhileStatement(TempNoJavaParser.java:524)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:379)%&% at TempNoJavaParser.FunctionDeclaration(TempNoJavaParser.java:234)%&% at TempNoJavaParser.MainClass(TempNoJavaParser.java:136)%&% at TempNoJavaParser.Goal(TempNoJavaParser.java:12)%&% at Main.main(Main.java:6)
+Going to parse the output of testcase: Testcase-14
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+%%TCE%%
+Testcase-14
+Failed!
+Parsing output failed with TempNoJavaGrammar!
+Exception in thread "main" ParseException: Encountered " <IDENTIFIER> "store "" at line 66, column 13.%&%Was expecting one of:%&% "{" ...%&% "if" ...%&% "while" ...%&% "System.out.println" ...%&% %&% at TempNoJavaParser.generateParseException(TempNoJavaParser.java:1683)%&% at TempNoJavaParser.jj_consume_token(TempNoJavaParser.java:1562)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:388)%&% at TempNoJavaParser.Block(TempNoJavaParser.java:420)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:361)%&% at TempNoJavaParser.WhileStatement(TempNoJavaParser.java:524)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:379)%&% at TempNoJavaParser.FunctionDeclaration(TempNoJavaParser.java:234)%&% at TempNoJavaParser.MainClass(TempNoJavaParser.java:136)%&% at TempNoJavaParser.Goal(TempNoJavaParser.java:12)%&% at Main.main(Main.java:6)
+Going to parse the output of testcase: Testcase-15
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+%%TCE%%
+Testcase-15
+Failed!
+Parsing output failed with TempNoJavaGrammar!
+Exception in thread "main" ParseException: Encountered " <IDENTIFIER> "store "" at line 66, column 13.%&%Was expecting one of:%&% "{" ...%&% "if" ...%&% "while" ...%&% "System.out.println" ...%&% %&% at TempNoJavaParser.generateParseException(TempNoJavaParser.java:1683)%&% at TempNoJavaParser.jj_consume_token(TempNoJavaParser.java:1562)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:388)%&% at TempNoJavaParser.Block(TempNoJavaParser.java:420)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:361)%&% at TempNoJavaParser.WhileStatement(TempNoJavaParser.java:524)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:379)%&% at TempNoJavaParser.FunctionDeclaration(TempNoJavaParser.java:234)%&% at TempNoJavaParser.MainClass(TempNoJavaParser.java:136)%&% at TempNoJavaParser.Goal(TempNoJavaParser.java:12)%&% at Main.main(Main.java:6)
+Going to parse the output of testcase: Testcase-16
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+%%TCE%%
+Testcase-16
+Failed!
+Parsing output failed with TempNoJavaGrammar!
+Exception in thread "main" ParseException: Encountered " <IDENTIFIER> "store "" at line 131, column 13.%&%Was expecting one of:%&% "{" ...%&% "if" ...%&% "while" ...%&% "System.out.println" ...%&% %&% at TempNoJavaParser.generateParseException(TempNoJavaParser.java:1683)%&% at TempNoJavaParser.jj_consume_token(TempNoJavaParser.java:1562)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:388)%&% at TempNoJavaParser.Block(TempNoJavaParser.java:420)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:361)%&% at TempNoJavaParser.WhileStatement(TempNoJavaParser.java:524)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:379)%&% at TempNoJavaParser.FunctionDeclaration(TempNoJavaParser.java:234)%&% at TempNoJavaParser.MainClass(TempNoJavaParser.java:136)%&% at TempNoJavaParser.Goal(TempNoJavaParser.java:12)%&% at Main.main(Main.java:6)
+Going to parse the output of testcase: Testcase-17
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Parsing the output is successful. Proceeding to compare the outputs.
+Compilation successful for the generated output file. Proceeding to compare output.
+%%TCE%%
+Testcase-17
+Pass
+Congrats!
+
+Going to parse the output of testcase: Testcase-18
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Parsing the output is successful. Proceeding to compare the outputs.
+Compilation successful for the generated output file. Proceeding to compare output.
+%%TCE%%
+Testcase-18
+Pass
+Congrats!
+
+Going to parse the output of testcase: Testcase-19
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+%%TCE%%
+Testcase-19
+Failed!
+Parsing output failed with TempNoJavaGrammar!
+Exception in thread "main" ParseException: Encountered " <IDENTIFIER> "store "" at line 94, column 21.%&%Was expecting one of:%&% "{" ...%&% "if" ...%&% "while" ...%&% "System.out.println" ...%&% %&% at TempNoJavaParser.generateParseException(TempNoJavaParser.java:1683)%&% at TempNoJavaParser.jj_consume_token(TempNoJavaParser.java:1562)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:388)%&% at TempNoJavaParser.Block(TempNoJavaParser.java:420)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:361)%&% at TempNoJavaParser.IfStatement(TempNoJavaParser.java:500)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:375)%&% at TempNoJavaParser.Block(TempNoJavaParser.java:420)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:361)%&% at TempNoJavaParser.IfStatement(TempNoJavaParser.java:503)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:375)%&% at TempNoJavaParser.Block(TempNoJavaParser.java:420)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:361)%&% at TempNoJavaParser.IfStatement(TempNoJavaParser.java:500)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:375)%&% at TempNoJavaParser.FunctionDeclaration(TempNoJavaParser.java:234)%&% at TempNoJavaParser.MainClass(TempNoJavaParser.java:136)%&% at TempNoJavaParser.Goal(TempNoJavaParser.java:12)%&% at Main.main(Main.java:6)
+Going to parse the output of testcase: Testcase-2
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Parsing the output is successful. Proceeding to compare the outputs.
+Compilation successful for the generated output file. Proceeding to compare output.
+%%TCE%%
+Testcase-2
+Pass
+Congrats!
+
+Going to parse the output of testcase: Testcase-20
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Parsing the output is successful. Proceeding to compare the outputs.
+Compilation successful for the generated output file. Proceeding to compare output.
+%%TCE%%
+Testcase-20
+Pass
+Congrats!
+
+Going to parse the output of testcase: Testcase-3
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Parsing the output is successful. Proceeding to compare the outputs.
+Compilation successful for the generated output file. Proceeding to compare output.
+%%TCE%%
+Testcase-3
+Pass
+Congrats!
+
+Going to parse the output of testcase: Testcase-4
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Parsing the output is successful. Proceeding to compare the outputs.
+Compilation successful for the generated output file. Proceeding to compare output.
+%%TCE%%
+Testcase-4
+Pass
+Congrats!
+
+Going to parse the output of testcase: Testcase-5
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+%%TCE%%
+Testcase-5
+Failed!
+Parsing output failed with TempNoJavaGrammar!
+Exception in thread "main" ParseException: Encountered " <IDENTIFIER> "store "" at line 117, column 13.%&%Was expecting one of:%&% "{" ...%&% "if" ...%&% "while" ...%&% "System.out.println" ...%&% %&% at TempNoJavaParser.generateParseException(TempNoJavaParser.java:1683)%&% at TempNoJavaParser.jj_consume_token(TempNoJavaParser.java:1562)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:388)%&% at TempNoJavaParser.Block(TempNoJavaParser.java:420)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:361)%&% at TempNoJavaParser.IfStatement(TempNoJavaParser.java:500)%&% at TempNoJavaParser.Statement(TempNoJavaParser.java:375)%&% at TempNoJavaParser.FunctionDeclaration(TempNoJavaParser.java:234)%&% at TempNoJavaParser.MainClass(TempNoJavaParser.java:136)%&% at TempNoJavaParser.Goal(TempNoJavaParser.java:12)%&% at Main.main(Main.java:6)
+Going to parse the output of testcase: Testcase-6
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Parsing the output is successful. Proceeding to compare the outputs.
+%%GE%%
+Compilation failed for the generated output file!
+Please correct the error: cs502/Main.java:16: error: variable x1 is already defined in method main(String[])%&% Object x1;%&% ^%&%cs502/Main.java:17: error: variable x2 is already defined in method main(String[])%&% Object x2;%&% ^%&%cs502/Main.java:22: error: incompatible types: Object cannot be converted to int%&% x1 = alloc(12);%&% ^%&%cs502/Main.java:26: error: incompatible types: Object cannot be converted to int%&% x2 = alloc(16);%&% ^%&%4 errors
+Going to parse the output of testcase: Testcase-7
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Parsing the output is successful. Proceeding to compare the outputs.
+Compilation successful for the generated output file. Proceeding to compare output.
+%%TCE%%
+Testcase-7
+Pass
+Congrats!
+
+Going to parse the output of testcase: Testcase-8
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Parsing the output is successful. Proceeding to compare the outputs.
+Compilation successful for the generated output file. Proceeding to compare output.
+%%TCE%%
+Testcase-8
+Pass
+Congrats!
+
+Going to parse the output of testcase: Testcase-9
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Parsing the output is successful. Proceeding to compare the outputs.
+Compilation successful for the generated output file. Proceeding to compare output.
+%%TCE%%
+Testcase-9
+Pass
+Congrats!
+
+Total marks obtained: 13
